@@ -6,10 +6,10 @@ function Login() {
   return (
     <div className="login">
       <img
-        src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9b064649177903.56084ea344766.jpg"
-        alt="Asshole Logo"
+        src="https://toppng.com/uploads/preview/svg-free-library-collection-of-high-quality-free-cliparts-space-needle-clip-art-11563529785uhxzfbjd4d.png"
+        alt="Spot"
       />
-      <a href={loginUrl}>LOGIN WITH ASSHOLE</a>
+      <a href={loginUrl}>LOGIN WITH SPOT</a>
     </div>
   );
 }
